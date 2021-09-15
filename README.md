@@ -1,0 +1,2 @@
+# myrepo
+test for class
